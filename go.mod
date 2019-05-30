@@ -24,7 +24,7 @@ require (
 	github.com/docker/go-events v0.0.0-20170721190031-9461782956ad // indirect
 	github.com/docker/libnetwork v0.0.0-20180913200009-36d3bed0e9f4
 	github.com/godbus/dbus v4.1.0+incompatible // indirect
-	github.com/gofrs/flock v0.7.0
+	github.com/gofrs/flock v0.7.1
 	github.com/gogo/googleapis v0.0.0-20180501115203-b23578765ee5
 	github.com/gogo/protobuf v1.2.0
 	github.com/golang/glog v0.0.0-20160126235308-23def4e6c14b // indirect
