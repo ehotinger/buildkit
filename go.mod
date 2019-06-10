@@ -59,7 +59,7 @@ require (
 	github.com/urfave/cli v0.0.0-20171014202726-7bc6a0acffa5
 	github.com/vishvananda/netlink v1.0.0 // indirect
 	github.com/vishvananda/netns v0.0.0-20180720170159-13995c7128cc // indirect
-	go.etcd.io/bbolt v1.3.2
+	go.etcd.io/bbolt v1.3.3
 	golang.org/x/crypto v0.0.0-20190129210102-ccddf3741a0c
 	golang.org/x/net v0.0.0-20180906233101-161cd47e91fd
 	golang.org/x/sync v0.0.0-20180314180146-1d60e4601c6f
